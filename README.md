@@ -12,3 +12,5 @@ This is a **test project** for learning Git and GitHub.　GitとGitHubの個人�
 ## Gitの基本ワークフロー
 
 ```git status```
+
+## 新しい変更を加えました
